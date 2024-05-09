@@ -19,7 +19,11 @@ Welcome to our GitHub! If you're new to working with GitHub, this repo serves as
 ### Prerequisites 
 Below are a list of prerequisites you need in order to start contributing to repositories on our account. Each bullet point has a linked tutorial. 
 - [A GitHub account](https://docs.github.com/en/get-started/quickstart/creating-an-account-on-github)  
-We push to GitHub via a Secure Shell, to setup your account's SSH key follow the below tutorials:
+We can access repos in one of two ways.
+#### GitHub Desktop App
+This is the easiest way to copy a repository to your personal device and push changes back up to the remote repository, as you can do so through a user interface rather than git commands in a terminal. Download the GitHub desktop application following [these instructions](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop)
+#### SSH
+We can also clone a repo and push to it via a Secure Shell. This is only recommended if you're going to be developing a project on GitHub for a long time and need to streamline your workflow/need added functionality, but the desktop app covers everything you need to upload and download your projects. To setup your account's SSH key follow the below tutorials:
 - Git Bash (a terminal to run git commands)
 - https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 -https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
